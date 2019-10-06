@@ -1,0 +1,389 @@
+@font-face {
+    font-family: 'PF DinDisplay Pro';
+    src: url('_fonts/PFDinDisplayPro-BoldItalic.eot');
+    src: local('PFDinDisplayPro-BoldItalic'),
+    url('_fonts/PFDinDisplayPro-BoldItalic.eot?#iefix') format('embedded-opentype'),
+    url('_fonts/PFDinDisplayPro-BoldItalic.woff') format('woff'),
+    url('_fonts/PFDinDisplayPro-BoldItalic.ttf') format('truetype');
+    font-weight: bold;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'PF DinDisplay Pro';
+    src: url('_fonts/PFDinDisplayPro-BlackItalic.eot');
+    src: local('PFDinDisplayPro-BlackItalic'),
+    url('_fonts/PFDinDisplayPro-BlackItalic.eot?#iefix') format('embedded-opentype'),
+    url('_fonts/PFDinDisplayPro-BlackItalic.woff') format('woff'),
+    url('_fonts/PFDinDisplayPro-BlackItalic.ttf') format('truetype');
+    font-weight: 900;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'PF DinDisplay Pro';
+    src: url('_fonts/PFDinDisplayPro-Thin.eot');
+    src: local('PFDinDisplayPro-Thin'),
+    url('_fonts/PFDinDisplayPro-Thin.eot?#iefix') format('embedded-opentype'),
+    url('_fonts/PFDinDisplayPro-Thin.woff') format('woff'),
+    url('_fonts/PFDinDisplayPro-Thin.ttf') format('truetype');
+    font-weight: 100;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'PF DinDisplay Pro';
+    src: url('_fonts/PFDinDisplayPro-ThinItalic.eot');
+    src: local('PFDinDisplayPro-ThinItalic'),
+    url('_fonts/PFDinDisplayPro-ThinItalic.eot?#iefix') format('embedded-opentype'),
+    url('_fonts/PFDinDisplayPro-ThinItalic.woff') format('woff'),
+    url('_fonts/PFDinDisplayPro-ThinItalic.ttf') format('truetype');
+    font-weight: 100;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'PF DinDisplay Pro';
+    src: url('_fonts/PFDinDisplayPro-Italic.eot');
+    src: local('PFDinDisplayPro-Italic'),
+    url('_fonts/PFDinDisplayPro-Italic.eot?#iefix') format('embedded-opentype'),
+    url('_fonts/PFDinDisplayPro-Italic.woff') format('woff'),
+    url('_fonts/PFDinDisplayPro-Italic.ttf') format('truetype');
+    font-weight: normal;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'PF DinDisplay Pro';
+    src: url('_fonts/PFDinDisplayPro-MediumItalic.eot');
+    src: local('PFDinDisplayPro-MediumItalic'),
+    url('_fonts/PFDinDisplayPro-MediumItalic.eot?#iefix') format('embedded-opentype'),
+    url('_fonts/PFDinDisplayPro-MediumItalic.woff') format('woff'),
+    url('_fonts/PFDinDisplayPro-MediumItalic.ttf') format('truetype');
+    font-weight: 500;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'PF DinDisplay Pro';
+    src: url('_fonts/PFDinDisplayPro-LightItalic.eot');
+    src: local('PFDinDisplayPro-LightItalic'),
+    url('_fonts/PFDinDisplayPro-LightItalic.eot?#iefix') format('embedded-opentype'),
+    url('_fonts/PFDinDisplayPro-LightItalic.woff') format('woff'),
+    url('_fonts/PFDinDisplayPro-LightItalic.ttf') format('truetype');
+    font-weight: 300;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'PF DinDisplay Pro';
+    src: url('_fonts/PFDinDisplayPro-Black.eot');
+    src: local('PFDinDisplayPro-Black'),
+    url('_fonts/PFDinDisplayPro-Black.eot?#iefix') format('embedded-opentype'),
+    url('_fonts/PFDinDisplayPro-Black.woff') format('woff'),
+    url('_fonts/PFDinDisplayPro-Black.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'PF DinDisplay Pro';
+    src: url('_fonts/PFDinDisplayPro-Regular.eot');
+    src: local('PFDinDisplayPro-Regular'),
+    url('_fonts/PFDinDisplayPro-Regular.eot?#iefix') format('embedded-opentype'),
+    url('_fonts/PFDinDisplayPro-Regular.woff') format('woff'),
+    url('_fonts/PFDinDisplayPro-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'PF DinDisplay Pro';
+    src: url('_fonts/PFDinDisplayPro-Light.eot');
+    src: local('PFDinDisplayPro-Light'),
+    url('_fonts/PFDinDisplayPro-Light.eot?#iefix') format('embedded-opentype'),
+    url('_fonts/PFDinDisplayPro-Light.woff') format('woff'),
+    url('_fonts/PFDinDisplayPro-Light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'PF DinDisplay Pro';
+    src: url('_fonts/PFDinDisplayPro-Bold.eot');
+    src: local('PFDinDisplayPro-Bold'),
+    url('_fonts/PFDinDisplayPro-Bold.eot?#iefix') format('embedded-opentype'),
+    url('_fonts/PFDinDisplayPro-Bold.woff') format('woff'),
+    url('_fonts/PFDinDisplayPro-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'PF DinDisplay Pro';
+    src: url('_fonts/PFDinDisplayPro-Medium.eot');
+    src: local('PFDinDisplayPro-Medium'),
+    url('_fonts/PFDinDisplayPro-Medium.eot?#iefix') format('embedded-opentype'),
+    url('_fonts/PFDinDisplayPro-Medium.woff') format('woff'),
+    url('_fonts/PFDinDisplayPro-Medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+}
+
+
+
+.doc-container {
+    width: 1140px;
+    margin: 0 auto;
+}
+
+html,
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.doc-header {
+    font-family: 'PF DinDisplay Pro';
+    font-weight: normal;
+    * {
+        -webkit-box-sizing: border-box;
+        -moz-box-sizing: border-box;
+        box-sizing: border-box;
+    }
+    .top {
+        padding: 12px 0 40px;
+        background: url('_images/top.jpg') 0 0 no-repeat;
+        background-size: cover;
+        .doc-container {
+            display: flex;
+            align-items: center;
+        }
+        .logo-section  {
+            margin-right: 30px;
+            .logo {
+                font-weight: 400;
+                margin: 0 0 10px 0;
+                font-size: 36px;
+                line-height: 36px;
+                color: #010101;
+                text-decoration: none;
+            }
+            strong {
+                font-weight: bold;
+                font-size: 47px;
+                display: block;
+                margin-bottom: 3px;
+                text-shadow: -1px -1px 1px rgba(255,255,255,0.2), 1px 1px 1px rgba(255,255,255,0.2), 1px 1px 1px rgba(0,0,0,0.7);
+            }
+            .flex {
+                display: flex;
+                flex-direction: column;
+                align-items: center;
+                justify-content: center;
+            }
+            span {
+                text-align: center;
+                font-size: 11px;
+                font-family: "Arial";
+                line-height: 12px;
+                color: rgb(255, 255, 255);
+                text-transform: uppercase;
+                padding: 3px;
+                background-color: #126CC1;
+                display: inline-block;
+                border-radius: 3px;
+            }
+        }
+        .header-contacts-block {
+            background: rgba(202, 211, 216, 0.65);
+            width: 360px;
+            border-radius: 7px;
+            padding: 6px 15px 6px;
+            margin-left: 55px;
+            .contacts-block-intro {
+                font-family: 'PF DinDisplay Pro';
+                color: rgb(0, 0, 0);
+                text-align: center;
+                font-size: 13px;
+                margin: 0;
+                font-weight: bold;
+            }
+            .contacts-detailed {
+                ul {
+                    padding: 0;
+                    margin: 0;
+                    li {
+                        display: flex;
+                        list-style-type: none;
+                        justify-content: space-between;
+                        align-items: center;
+                        p {
+                            margin: 0;
+                            font-size: 13px;
+                            font-weight: normal;
+                            &.contacts-block-item {
+                                padding: 0 0 0 20px;
+                                font-size: 17px;
+                                &.__phone-icon {
+                                    background: url('_images/phone-icon.png') left center no-repeat;
+                                }
+                                &.__skype-icon {
+                                    background: url('_images/skype-icon.png') left center no-repeat;
+                                }
+                                &.__email-icon {
+                                    background: url('_images/email-icon.png') left center no-repeat;
+                                }
+                                &.__front-icon {
+                                    background: url('_images/front-icon.png') left center no-repeat;
+                                }
+                            }
+                        }
+                        a {
+                            text-decoration: none;
+                            color: #000;
+                            font-size: 15px;
+                        }
+                    }
+                }
+            }
+        }
+        .ready-consult-block {
+            background-image: url(_images/ready-block-bg.png);
+            background-repeat: no-repeat;
+            float: right;
+            font-size: 15px;
+            color: #231E22;
+            text-align: center;
+            text-decoration: none;
+            width: 122px;
+            height: 100px;
+            font-weight: bold;
+            margin-left: auto;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            margin-right: -13px;
+            .ready-consult-day {
+                font-size: 23px;
+                color: rgb(255, 255, 255);
+                font-size: inherit;
+            }
+        }
+    }
+    .middle {
+        background: url("_images/middle.png") top center no-repeat;
+        -webkit-background-size: cover !important;
+        background-size: cover !important;
+        margin-top: -41px;
+        min-height: 50px;
+        padding: 55px 0;
+        position: relative;
+        .doc-container {
+            display: flex;
+        }
+        .about {
+            margin-top: -40px   ;
+            width: 700px;
+            position: relative;
+            top: 35px;
+            P {
+                margin: 0;
+                padding: 0;
+                color: #FFF;
+                line-height: 18px;
+                margin-bottom: 9px;
+                font-size: 17px;
+                &.degree {
+                    font-weight: bold;
+                    font-size: 28px;
+                    line-height: 29px;
+                    color: #FFF;
+                    margin-bottom: 15px;
+                }
+
+            }
+
+        }
+        .doctor-holder {
+            margin-left: auto;
+            width: calc(100% - 700px);
+            position: relative;
+            img {
+                width: 334px;
+                height: 424px;
+                position: absolute;
+                left: 50%;
+                top: 50%;
+                transform: translate(-50%, -50%);
+            }
+        }
+    }
+    .bottom {
+        background-color: #BC7A07;
+        border-bottom: 10px solid #08408D;
+        padding: 15px 0;
+        .doc-container {
+            display: flex;
+            align-items: center;
+        }
+        .menu {
+            display: flex;
+            flex-wrap: wrap;
+            position: relative;
+            z-index: 3;
+            width: 700px;
+            ul {
+                padding: 0;
+                margin: 0;
+                li {
+                    display: inline-flex;
+                    padding: 0;
+                    margin: 0;
+                    list-style-type: none;
+                    font-size: 16px;
+                    font-weight: bold;
+                    color: #000;
+                    a {
+                        margin-left: 0;
+                        margin-bottom: 7px;
+                        font-size: 23px;
+                        color: rgb(53, 51, 56);
+                        text-decoration: none;
+                        padding: 3px 10px;
+                        &:hover {
+                            box-shadow: 1px 1px 5px 0 #8a7a32;
+                            border-radius: 4px;
+                        }
+                    }
+                }
+            }
+        }
+        .social-block {
+            display: flex;
+            margin-left: auto;
+            align-items: center;
+            a {
+                display: inline-block;
+                width: 37px;
+                height: 37px;
+                position: relative;
+                z-index: 4;
+                margin: 0 3px;
+                &.__vkontakte {
+                    background: url('_images/vk-icon.png') center no-repeat;
+                }
+                &.__instagram {
+                    background: url("_images/ig-icon.png") center no-repeat;
+                }
+                &.__facebook {
+                    background: url("_images/fb-icon.png") center no-repeat;
+                }
+                &.__youtube {
+                    background: url("_images/youtube-icon.png") center no-repeat;
+                }
+            }
+        }
+    }
+}
